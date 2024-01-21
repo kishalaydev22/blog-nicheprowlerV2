@@ -2,19 +2,13 @@ import type { SiteConfig } from "@/lib/types";
 const siteConfig: SiteConfig = {
   avatar: "/avatar.png",
   siteUrl: "https://blog.nicheprowler.com",
-  siteName: "Alex Carpenter",
+  siteName: "Nicheprowler Blog",
   siteDescription:
-    "Starter template for a personal website blog, built with Next.js, MDX, and Tailwind CSS.",
+    "Unlock the potential of Software as a Service (SaaS) with Nicheprowler's Blog. Discover expert strategies, innovative ideas, and success stories to elevate your SaaS journey. Join our community and stay ahead in the dynamic world of SaaS innovation!",
   siteThumbnail: "/og-image.png",
   nav: [
     { label: "Posts", href: "/posts" },
     { label: "About", href: "/about" },
   ],
-  social: {
-    github: "https://github.com/alexcarpenter",
-    twitter: "https://twitter.com/hyrbid_alex",
-    linkedin: "https://www.linkedin.com/in/imalexcarpenter/",
-    instagram: "https://www.instagram.com/alexcarp/",
-  },
 };
 export default siteConfig;

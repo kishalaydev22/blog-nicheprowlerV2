@@ -11,28 +11,23 @@ const About: NextPage = () => {
       >
         <Prose>
           <p>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsam sed
-            aliquam tempora nihil magni natus mollitia. Doloribus,
-            exercitationem iusto odio asperiores dolor, alias excepturi maxime
-            distinctio quod eum saepe eos!
+            Welcome to Nicheprowler – Your Gateway to SaaS Excellence! At
+            Nicheprowler, we're passionate about empowering businesses and
+            individuals in the Software as a Service (SaaS) landscape.
           </p>
           <p>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsam sed
-            aliquam tempora nihil magni natus mollitia. Doloribus,
-            exercitationem iusto odio asperiores dolor, alias excepturi maxime
-            distinctio quod eum saepe eos!
+            Our mission is to simplify your journey by providing a one-stop
+            platform for discovering the best software tools, validating
+            innovative ideas, and exploring profitable niche inspirations.
           </p>
           <p>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsam sed
-            aliquam tempora nihil magni natus mollitia. Doloribus,
-            exercitationem iusto odio asperiores dolor, alias excepturi maxime
-            distinctio quod eum saepe eos!
+            Founded on the principles of comprehensive knowledge and
+            user-centricity, Nicheprowler is your trusted companion in
+            navigating the dynamic SaaS universe.
           </p>
           <p>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsam sed
-            aliquam tempora nihil magni natus mollitia. Doloribus,
-            exercitationem iusto odio asperiores dolor, alias excepturi maxime
-            distinctio quod eum saepe eos!
+            Our platform offers a rich repository of tools, expert strategies,
+            and niche insights to catalyze your success.
           </p>
         </Prose>
       </Page>

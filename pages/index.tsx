@@ -18,11 +18,8 @@ const Home: NextPage<HomeProps> = ({ posts }) => {
         description={
           <>
             <p>
-              View the source code on{" "}
-              <a href="https://github.com/alexcarpenter/nextjs-mdx-blog-theme">
-                Github
-              </a>
-              .
+              Validate your SaaS Idea on{" "}
+              <a href="https://nicheprowler.com">Nicheprowler</a>.
             </p>
           </>
         }
